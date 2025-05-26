@@ -3,7 +3,9 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-/.idea/.idea.RefactorThis/.idea
+/.vs/refactorthis
+/RefactorThis.Domain/.vs
+/RefactorThis.Domain.Tests/.vs
 /.vs
-/RefactorThis.Domain/Properties
-/RefactorThis.Domain.Tests/Properties
+/.idea/.idea.RefactorThis/.idea
+/RefactorThis.Domain/Properties/AssemblyInfo.cs
