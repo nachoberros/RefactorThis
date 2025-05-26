@@ -3,7 +3,7 @@ namespace RefactorThis.Persistence {
 	{
 		private Invoice _invoice;
 
-		public Invoice GetInvoice( string reference )
+		public Invoice GetInvoice(string reference)
 		{
 			return _invoice;
 		}
