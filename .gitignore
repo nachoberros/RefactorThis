@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.RefactorThis/.idea
+/.vs
+/RefactorThis.Domain/Properties
+/RefactorThis.Domain.Tests/Properties
